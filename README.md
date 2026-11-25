@@ -1,3 +1,5 @@
+![Profile Banner](profile-banner.png)
+
 # Hi, I'm Jayadhan 👋
 
 ### AI Engineering | Python | Backend Development | Generative AI
